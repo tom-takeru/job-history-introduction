@@ -2,7 +2,7 @@ import { NextPage } from 'next';
 import { MarkdownContentsComponent } from '@/components/MarkdownContentsComponent';
 
 const index: NextPage = () => {
-  return <MarkdownContentsComponent fineName='markdownSample.md' />;
+  return <MarkdownContentsComponent fineName='about.md' />;
 };
 
 export default index;

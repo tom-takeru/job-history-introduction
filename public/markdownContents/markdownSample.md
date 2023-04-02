@@ -1,4 +1,4 @@
-# Markdown の全文法のサンプル
+# Markdown Sample
 
 ## 見出し
 
