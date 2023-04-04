@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
-import { ReactMarkdown } from 'react-markdown/lib/react-markdown';
+import ReactMarkdown from 'react-markdown';
 import rehypeRaw from 'rehype-raw';
-import rehypeSanitize from 'rehype-sanitize';
 import remarkGfm from 'remark-gfm';
+import CodeBlock from '@/components/CodeBlock';
 
 type Props = {
   fineName: string;
@@ -22,7 +22,7 @@ export const MarkdownContentsComponent = (props: Props) => {
 
   return (
     <div className='prose prose-xl'>
-      <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw, rehypeSanitize]}>
+      <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]} components={{ code: CodeBlock }}>
         {markdownContents}
       </ReactMarkdown>
     </div>
