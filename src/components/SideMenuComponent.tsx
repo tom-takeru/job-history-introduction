@@ -12,7 +12,7 @@ export const SideMenuComponent = () => {
       <Link className='block text-xl m-4 p-4 rounded-2xl hover:bg-gray-600' href='/about'>
         About tom-takeru
       </Link>
-      <Link className='block text-xl m-4 p-4 rounded-2xl hover:bg-gray-600' href='/'>
+      <Link className='block text-xl m-4 p-4 rounded-2xl hover:bg-gray-600' href='/jobHistory'>
         Job History
       </Link>
       <Link className='block text-xs m-4 px-4 py-1 rounded-2xl text-gray-500 hover:bg-gray-600' href='/markdownSample'>

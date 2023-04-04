@@ -51,8 +51,12 @@ _斜体_
 
 ## コード
 
-```javascript
+```js
 console.log('Hello, World!');
+```
+
+```html
+<div>Hello World!</div>
 ```
 
 ## テーブル

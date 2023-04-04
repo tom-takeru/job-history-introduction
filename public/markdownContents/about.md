@@ -2,11 +2,11 @@
 
 ## Basic
 
-| Key    | Value                                        |
-| ------ | -------------------------------------------- |
-| Name   | 吉村 威（Yoshimura Takeru）                  |
-| Gender | M                                            |
-| Web    | https://job-history-introduction.vercel.app/ |
+| Key    | Value                                       |
+| ------ | ------------------------------------------- |
+| Name   | 吉村 威（Yoshimura Takeru）                 |
+| Gender | M                                           |
+| Web    | https://job-history-introduction.vercel.app |
 
 ## Extra
 
