@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 import rehypeRaw from 'rehype-raw';
 import remarkGfm from 'remark-gfm';
-import CodeBlock from '@/components/CodeBlock';
+import CodeBlockComponent from '@/components/CodeBlockComponent';
 
 type Props = {
   fineName: string;
@@ -21,8 +21,8 @@ export const MarkdownContentsComponent = (props: Props) => {
   }, [props]);
 
   return (
-    <div className='prose prose-xl'>
-      <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]} components={{ code: CodeBlock }}>
+    <div className='prose prose-invert prose-xl'>
+      <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]} components={{ code: CodeBlockComponent }}>
         {markdownContents}
       </ReactMarkdown>
     </div>
