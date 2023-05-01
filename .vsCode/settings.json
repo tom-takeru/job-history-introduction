@@ -5,5 +5,17 @@
     "source.fixAll.eslint": true
   },
   "editor.tabSize": 2,
-  "cSpell.words": ["dbaeumer", "esbenp", "formulahendry", "oderwat", "rehype", "Tkinter", "videdi"]
+  "cSpell.words": [
+    "csstools",
+    "dbaeumer",
+    "esbenp",
+    "formulahendry",
+    "jumpcut",
+    "natqe",
+    "oderwat",
+    "rehype",
+    "Tkinter",
+    "TOEIC",
+    "videdi"
+  ]
 }
