@@ -102,7 +102,7 @@
   - 自動編集手直し
   - 字幕色変更
 
-### 実際のアプリケーションのイメージ
+### アプリケーションのイメージ
 
 <video src='発表(概要)_jumpcut_subtitle.mp4' controls></video>
 
