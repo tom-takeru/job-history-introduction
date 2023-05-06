@@ -17,7 +17,7 @@ export default function App({ Component, pageProps }: AppProps) {
       </div>
       <div className='z-10 w-full min-h-full flex'>
         <SideMenuComponent />
-        <div className='min-h-full ml-[calc(20%_+_12rem)] p-8'>
+        <div className='min-h-full ml-[calc(23%_+_8rem)] p-8'>
           <Component {...pageProps} />
         </div>
       </div>

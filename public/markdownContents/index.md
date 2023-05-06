@@ -1,8 +1,21 @@
-# tom-takeru Web
+# tom-takeru Web Top
+
+## What's "tom-takeru Web" ?
+
+このサイトは エンジニア **tom-takeru** について紹介するサイトです。
+
+## About Each Page
+
+| Page Name                                                                           | Note                                                                |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [Top](https://job-history-introduction.vercel.app)                                  | tom-takeru を紹介するサイトのトップページです（本ページです）。     |
+| [About](https://job-history-introduction.vercel.app/about)                          | tom-takeru の基本情報や簡単な技術スタックなどを掲載したページです。 |
+| [Job History](https://job-history-introduction.vercel.app/jobHistory)               | tom-takeru の職務経歴を掲載したページです。                         |
+| [Another Activities](https://job-history-introduction.vercel.app/anotherActivities) | tom-takeru の「ぜひご紹介したい活動」を掲載したページです。         |
 
 ## Links
 
-| Service         | User Name  | Link                                        |
-| --------------- | ---------- | ------------------------------------------- |
-| GitHub          | tom-takeru | https://github.com/tom-takeru               |
-| My own web site | ---        | https://job-history-introduction.vercel.app |
+| Link                                                          | Note                                                    |
+| ------------------------------------------------------------- | ------------------------------------------------------- |
+| [tom-takeru Web](https://job-history-introduction.vercel.app) | tom-takeru について紹介するサイトです（本サイトです）。 |
+| [GitHub](https://github.com/tom-takeru)                       | tom-takeru の GitHub アカウントです。                   |
