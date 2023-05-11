@@ -19,3 +19,9 @@
 | ------------------------------------------------------------- | ------------------------------------------------------- |
 | [tom-takeru Web](https://job-history-introduction.vercel.app) | tom-takeru について紹介するサイトです（本サイトです）。 |
 | [GitHub](https://github.com/tom-takeru)                       | tom-takeru の GitHub アカウントです。                   |
+
+## Update of tom-takeru Web
+
+| When   | Update Detail            |
+| ------ | ------------------------ |
+| 2023/5 | First edition published. |
