@@ -2,11 +2,11 @@
 
 ## 基本情報
 
-|        |                                                               |
-| ------ | ------------------------------------------------------------- |
-| Name   | 吉村 威（Yoshimura Takeru）                                   |
-| Gender | M                                                             |
-| Web    | [tom-takeru Web](https://job-history-introduction.vercel.app) |
+|        |                                                   |
+| ------ | ------------------------------------------------- |
+| Name   | 吉村 威（Yoshimura Takeru）                       |
+| Gender | M                                                 |
+| Web    | <a href='/top' target="_blank">tom-takeru Web</a> |
 
 ## 職務概要
 
@@ -14,7 +14,7 @@
 担当している主な業務は、Web アプリケーションの設計、開発、コードレビュー、単体テストなどです。
 さらに、海外現地法人からの問い合わせ対応、ドキュメント作成、導入プロジェクト支援なども行っています。
 
-※詳細は、 [Job History ページ](https://job-history-introduction.vercel.app/jobHistory) をご覧ください。
+※詳細は、 <a href='/jobHistory' target="_blank">Job History ページ</a> をご覧ください。
 
 ## 今までの経験
 
@@ -29,7 +29,7 @@
 - 4 名の開発チームのフロントエンド開発リーダー経験\*
 - チームの課題改善につながる新しい仕組みの提案,運営経験
 
-（\*がついているものは、[職務外の活動](https://job-history-introduction.vercel.app/anotherActivities)での経験です。）
+（\*がついているものは、<a href='/anotherActivities' target="_blank">Another Activities</a>での経験です。）
 
 ## スキルレベル
 
@@ -50,7 +50,7 @@
 
 ※FW は Framework の意味です。
 
-※詳細は、 [Job History](https://job-history-introduction.vercel.app/jobHistory) や [Another Activities](https://job-history-introduction.vercel.app/anotherActivities) のページをご覧ください。
+※詳細は、 <a href='/jobHistory' target="_blank">Job History</a>, <a href='/anotherActivities' target="_blank">Another Activities</a> ページをご覧ください。
 
 ## 資格・試験
 
