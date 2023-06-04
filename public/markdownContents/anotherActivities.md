@@ -14,21 +14,22 @@ _期間：2022/8 〜 現在まで継続中_
 
 #### 技術スタック
 
-|                        |                                                                   |
-| :--------------------: | :---------------------------------------------------------------: |
-|      バックエンド      |                       JavaScript / Express                        |
-|     フロントエンド     | TypeScript / React, Next.js, tailwindcss, Redux, ESLint, Prettier |
-|      データベース      |                            PostgreSQL                             |
-|        インフラ        |                              Docker                               |
-| フロントエンドサーバー |                              Vercel                               |
-|  バックエンドサーバー  |                              Render                               |
-|   開発時の PC の OS    |                                Mac                                |
-|        デザイン        |                               Figma                               |
-|     バージョン管理     |                                Git                                |
-|   リモートリポジトリ   |                              GitHub                               |
-|       タスク管理       |                               Jira                                |
-|    ドキュメント管理    |                            Confluence                             |
-|   コミュニケーション   |                               Slack                               |
+|                        |                                                                             |
+| :--------------------: | :-------------------------------------------------------------------------: |
+|      バックエンド      |                            JavaScript / Express                             |
+|     フロントエンド     | TypeScript / React, Next.js, [Redux ToolKit](https://redux-toolkit.js.org/) |
+|        スタイル        |                   [tailwindcss](https://tailwindcss.com/)                   |
+|      データベース      |                                 PostgreSQL                                  |
+|        インフラ        |                      [Docker](https://www.docker.com/)                      |
+| フロントエンドサーバー |                     [Vercel](https://vercel.com/about)                      |
+|  バックエンドサーバー  |                     [Render](https://render.com/about)                      |
+|   開発時の PC の OS    |                                     Mac                                     |
+|        デザイン        |                    [Figma](https://www.figma.com/about/)                    |
+|     バージョン管理     |                                     Git                                     |
+|   リモートリポジトリ   |                                   GitHub                                    |
+|       タスク管理       |               [Jira](https://www.atlassian.com/software/jira)               |
+|    ドキュメント管理    |         [Confluence](https://www.atlassian.com/software/confluence)         |
+|   コミュニケーション   |                      [Slack](https://slack.com/about)                       |
 
 #### 開発チーム構成
 
@@ -69,12 +70,12 @@ _期間：2022/8 〜 現在まで継続中_
 ### 2023/4/30 までの実績
 
 - 知人, 友人への需要調査アンケート実施
-- 要件定義書の作成（Confluence）
+- 要件定義書の作成（[Confluence](https://www.atlassian.com/software/confluence)）
 - 利用する技術やツールの選定
-- 画面遷移図を作成（Confluence）
-- 機能仕様書と画面仕様書で合計約 70 ページを作成（Confluence）
-- ER 図で DB 設計（Confluence）
-- デザイン, プロトタイプの作成（Figma）
+- 画面遷移図を作成（[Confluence](https://www.atlassian.com/software/confluence)）
+- 機能仕様書と画面仕様書で合計約 70 ページを作成（[Confluence](https://www.atlassian.com/software/confluence)）
+- ER 図で DB 設計（[Confluence](https://www.atlassian.com/software/confluence)）
+- デザイン, プロトタイプの作成（[Figma](https://www.figma.com/about/)）
 - バックエンド, フロントエンド, データベースの開発環境構築（Docker）
 - RestAPI とテストコードで合計約 15 個の実装
 - バックエンドの各テーブル用の汎用的なバリデーション処理の実装
@@ -104,15 +105,15 @@ _期間：2020/10 〜 2021/1_
 
 #### 技術スタック
 
-|                    |                  |
-| :----------------: | :--------------: |
-|        GUI         | Python / Tkinter |
-|    exe 化ツール    |   PyInstaller    |
-|      動画処理      |      FFmpeg      |
-|      音声認識      |      Wit.ai      |
-|   バージョン管理   |       Git        |
-| 開発時の PC の OS  |       Mac        |
-| リモートリポジトリ |      GitHub      |
+|                    |                                                                    |
+| :----------------: | :----------------------------------------------------------------: |
+|        GUI         | Python / [Tkinter](https://docs.python.org/3/library/tkinter.html) |
+|    exe 化ツール    |         [PyInstaller](https://pyinstaller.org/en/stable/)          |
+|      動画処理      |                   [FFmpeg](https://ffmpeg.org/)                    |
+|      音声認識      |                     [wit.ai](https://wit.ai/)                      |
+|   バージョン管理   |                                Git                                 |
+| リモートリポジトリ |                               GitHub                               |
+| 開発時の PC の OS  |                                Mac                                 |
 
 ### 開発の背景
 
@@ -150,7 +151,8 @@ tom-takeru について紹介するためのサイトです（本サイトです
 | :----------------------: | :---------------------------------------------------------------: |
 |       バックエンド       |                               なし                                |
 |      フロントエンド      | TypeScript / React, Next.js, tailwindcss, Redux, ESLint, Prettier |
-|         インフラ         |                          Docker, Vercel                           |
+|       開発インフラ       |         [Docker](https://www.docker.com/) / dev container         |
+|       ホスティング       |                [Vercel](https://vercel.com/about)                 |
 |    開発時の PC の OS     |                                Mac                                |
 |      バージョン管理      |                                Git                                |
 |    リモートリポジトリ    |                              GitHub                               |

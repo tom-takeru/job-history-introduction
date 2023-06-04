@@ -1,8 +1,6 @@
 # tom-takeru Web Top
 
-## What's "tom-takeru Web" ?
-
-このサイトは エンジニア **tom-takeru** について紹介するサイトです。
+### tom-takeru のサイト
 
 ## About Each Page
 
@@ -22,6 +20,7 @@
 
 ## Update of tom-takeru Web
 
-| When   | Update Detail            |
-| ------ | ------------------------ |
-| 2023/5 | First edition published. |
+| When   | Update Detail                      |
+| ------ | ---------------------------------- |
+| 2023/5 | First edition published.           |
+| 2023/5 | Updated information in some pages. |
