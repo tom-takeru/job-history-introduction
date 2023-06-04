@@ -18,8 +18,8 @@
 
 ## 今までの経験
 
-- Java(Spring Boot),TypeScript(Angular),MySQL による Web アプリケーション開発経験
-- JavaScript(Express),TypeScript(React),PostgreSQL による Web アプリケーション開発経験\*
+- Java（Spring Boot）,TypeScript（Angular）,MySQL による Web アプリケーション開発経験
+- JavaScript（Express）,TypeScript（React）,PostgreSQL による Web アプリケーション開発経験\*
 - Angular のバージョンアップ時のライブラリへの影響調査経験
 - Terraform を用いたコードベースの顧客用の AWS 環境構築の経験
 - アプリケーション機能設計経験
@@ -29,24 +29,24 @@
 - 4 名の開発チームのフロントエンド開発リーダー経験\*
 - チームの課題改善につながる新しい仕組みの提案,運営経験
 
-※\*がついているものは、[職務外の活動](https://job-history-introduction.vercel.app/anotherActivities)での経験です。
+（\*がついているものは、[職務外の活動](https://job-history-introduction.vercel.app/anotherActivities)での経験です。）
 
 ## 技術スタック
 
-| カテゴリ |             | 期間<br>(年) | 業務<br>経験 | レベル                                                 |
-| -------- | ----------- | ------------ | ------------ | ------------------------------------------------------ |
-| 言語     | Java        | 2            | ○            | 適切なコード記述とレビューが可能                       |
-| 言語     | TypeScript  | 2            | ○            | 適切なコード記述とレビューが可能                       |
-| 言語     | Python      | 1.5          |              | 調べながらであれば１人で作業可能                       |
-| FW       | Spring Boot | 2            | ○            | 調べながらであれば１人で作業可能                       |
-| FW       | Angular     | 2            | ○            | 適切なコード記述とレビューが可能                       |
-| FW       | Express     | 1            |              | 適切なコード記述とレビューが可能                       |
-| FW       | React       | 1            |              | 適切なコード記述とレビューが可能                       |
-| FW       | Next.js     | 1            |              | 調べながらであれば１人で作業可能                       |
-| DB       | MySQL       | 2            | ○            | 構築から簡単な設定まで可能                             |
-| DB       | PostgreSQL  | 1            |              | 構築から簡単な設定まで可能                             |
-| その他   | Docker      | 1            |              | Docker Compose による 複数コンテナ開発環境の構築が可能 |
-| その他   | AWS         | 2            | ○            | Terraform による簡単な環境構築が可能                   |
+| カテゴリ |             | 期間<br>（年） | 業務<br>経験 | レベル                                                 |
+| -------- | ----------- | -------------- | ------------ | ------------------------------------------------------ |
+| 言語     | Java        | 2              | ○            | 適切なコード記述とレビューが可能                       |
+| 言語     | TypeScript  | 2              | ○            | 適切なコード記述とレビューが可能                       |
+| 言語     | Python      | 1.5            |              | 調べながらであれば１人で作業可能                       |
+| FW       | Spring Boot | 2              | ○            | 調べながらであれば１人で作業可能                       |
+| FW       | Angular     | 2              | ○            | 適切なコード記述とレビューが可能                       |
+| FW       | Express     | 1              |              | 適切なコード記述とレビューが可能                       |
+| FW       | React       | 1              |              | 適切なコード記述とレビューが可能                       |
+| FW       | Next.js     | 1              |              | 調べながらであれば１人で作業可能                       |
+| DB       | MySQL       | 2              | ○            | 構築から簡単な設定まで可能                             |
+| DB       | PostgreSQL  | 1              |              | 構築から簡単な設定まで可能                             |
+| その他   | Docker      | 1              |              | Docker Compose による 複数コンテナ開発環境の構築が可能 |
+| その他   | AWS         | 2              | ○            | Terraform による簡単な環境構築が可能                   |
 
 ※FW は Framework の意味です。
 

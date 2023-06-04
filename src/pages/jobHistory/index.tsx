@@ -6,7 +6,7 @@ const index: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Job History</title>
+        <title>Job History | tom-takeru Web</title>
       </Head>
       <MarkdownContentsComponent fineName='jobHistory.md' />
     </>
