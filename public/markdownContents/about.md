@@ -10,6 +10,12 @@
 | Gender | M                                                             |
 | Web    | [tom-takeru Web](https://job-history-introduction.vercel.app) |
 
+### Job History Summary
+
+私はビジネスエンジニアリング株式会社で 2021 年 4 月から現在までエンジニアとして勤務しています。
+担当している主な業務は、Web アプリケーションの設計、開発、コードレビュー、単体テストなどです。
+さらに、海外現地法人からの問い合わせ対応、ドキュメント作成、導入プロジェクト支援なども行っています。
+
 ### Technology Stacks
 
 | Technology           | Approximate Years of Experience | Note                                                                                                                                                   |
