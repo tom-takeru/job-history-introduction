@@ -1,4 +1,4 @@
-# tom-takeru Web Top
+# tom-takeru Web
 
 本サイトは、エンジニア **tom-takeru** について紹介する Web サイトです。
 
