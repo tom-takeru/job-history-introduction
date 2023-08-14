@@ -6,6 +6,6 @@ services:
     environment:
       - WATCHPACK_POLLING=true
     volumes:
-      - ./:/app:consistant
+      - ./:/app:consistent
     ports:
       - '2000:2000'
