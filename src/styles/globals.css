@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@media screen and (max-width: 768px) {
+  html {
+    /* ルートのフォントサイズを10pxに設定しておく */
+    font-size: 62.5%;
+  }
+
+  body {
+    /* ルートのフォントサイズを1.6em（16pxと同等のサイズ）に設定 */
+    font-size: 1.6em;
+  }
+}

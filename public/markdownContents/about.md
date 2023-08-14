@@ -2,21 +2,20 @@
 
 ## 基本情報
 
-|        |                                                   |
-| ------ | ------------------------------------------------- |
-| Name   | 吉村 威（Yoshimura Takeru）                       |
-| Gender | M                                                 |
-| Web    | <a href='/top' target="_blank">tom-takeru Web</a> |
+|        |                             |
+| ------ | --------------------------- |
+| Name   | 吉村 威（Yoshimura Takeru） |
+| Gender | M                           |
 
-## 職務概要
+## キャリアサマリー
 
 私はビジネスエンジニアリング株式会社で 2021 年 4 月から現在までエンジニアとして勤務しています。
 担当している主な業務は、Web アプリケーションの設計、開発、コードレビュー、単体テストなどです。
 さらに、海外現地法人からの問い合わせ対応、ドキュメント作成、導入プロジェクト支援なども行っています。
 
-※詳細は、 <a href='/jobHistory' target="_blank">Job History ページ</a> をご覧ください。
+※詳細は、 <a href='/jobHistory'>Job History</a>, <a href='/anotherActivities'>Another Activities</a> ページをご覧ください。
 
-## 今までの経験
+## 具体的な経験
 
 - Java（Spring Boot）,TypeScript（Angular）,MySQL による Web アプリケーション開発経験
 - JavaScript（Express）,TypeScript（React）,PostgreSQL による Web アプリケーション開発経験\*
@@ -26,10 +25,10 @@
 - ゼロからの DB 設計経験\*
 - 技術選定経験\*
 - システムの企画,要件定義,設計,開発,テスト,運用までを一挙に担当した経験\*
-- 4 名の開発チームのフロントエンド開発リーダー経験\*
+- 4 名の開発チームのリーダー経験\*
 - チームの課題改善につながる新しい仕組みの提案,運営経験
 
-（\*がついているものは、<a href='/anotherActivities' target="_blank">Another Activities</a>での経験です。）
+（\*がついているものは、<a href='/anotherActivities'>Another Activities</a>での経験です。）
 
 ## スキルレベル
 
@@ -50,7 +49,7 @@
 
 ※FW は Framework の意味です。
 
-※詳細は、 <a href='/jobHistory' target="_blank">Job History</a>, <a href='/anotherActivities' target="_blank">Another Activities</a> ページをご覧ください。
+※詳細は、 <a href='/jobHistory'>Job History</a>, <a href='/anotherActivities'>Another Activities</a> ページをご覧ください。
 
 ## 資格・試験
 
