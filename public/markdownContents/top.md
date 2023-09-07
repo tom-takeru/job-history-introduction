@@ -17,6 +17,7 @@
 | --------------------------------------------------- | ------------------------------------------------------- |
 | <a href='/top'>tom-takeru Web</a>                   | tom-takeru について紹介するサイトです（本サイトです）。 |
 | [GitHub](https://github.com/tom-takeru)             | tom-takeru の GitHub アカウントです。                   |
+| [Qiita](https://qiita.com/tom-takeru)               | tom-takeru の Qiita アカウントです。                    |
 | [LinkedIn](https://www.linkedin.com/in/tom-takeru/) | tom-takeru の LinkedIn アカウントです。                 |
 
 ## 更新履歴
