@@ -130,13 +130,13 @@ _期間：2020/10 〜 2021/1_
   - 自動編集手直し
   - 字幕色変更
 
-### アプリケーションのイメージ
+### アプリケーションを動かしている様子
 
 <video src='発表(概要)_jumpcut_subtitle.mp4' controls></video>
 
-**※卒業発表で利用した動画の一部です**
+**※卒業発表で利用した動画の一部です。**
 
-**※この説明動画も VIDEDI で編集しています**
+**※この説明動画も VIDEDI で編集しています。**
 
 ## tom-takeru Web の開発
 
@@ -165,4 +165,4 @@ tom-takeru について紹介するためのサイトです（本サイトです
 |                            |                          URL                           |
 | :------------------------: | :----------------------------------------------------: |
 |     GitHub リポジトリ      | https://github.com/tom-takeru/job-history-introduction |
-| tom-takeru Web（本番環境） |          <a href='/top' target="_blank"></a>           |
+| tom-takeru Web（本番環境） |      https://job-history-introduction.vercel.app       |
