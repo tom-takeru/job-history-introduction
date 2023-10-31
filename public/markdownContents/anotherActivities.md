@@ -46,13 +46,13 @@ _期間：2022/8 〜 現在まで継続中_
 | :---------------------------------: | :---------------------------------: |
 |  GitHub リポジトリ（バックエンド）  | https://github.com/daydule/backend  |
 | GitHub リポジトリ（フロントエンド） | https://github.com/daydule/frontend |
-|          daydule（本製品）          |            近日公開予定             |
+|        daydule サービス URL         |    https://frontend.daydule.net     |
 
 ### アプリケーションのイメージ
 
-<img src='daydule_image.png'>
+<img src='dayduleImage.png'>
 
-**※2023/5/1 現在のスクリーンショットです**
+**※2023/10/30 現在のスクリーンショットです。**
 
 ### 私が担当していること
 
@@ -148,16 +148,17 @@ tom-takeru について紹介するためのサイトです（本サイトです
 
 #### 技術スタック
 
-|                          |                                                                                                                        |
-| :----------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-|       バックエンド       |                                                          なし                                                          |
-|      フロントエンド      |                              TypeScript / React, Next.js, Tailwind CSS, ESLint, Prettier                               |
-|       開発インフラ       | <a target="_blank" rel="noopener noreferrer" href='https://www.docker.com/' target="_blank">Docker</a> / Dev Container |
-|       ホスティング       |        <a target="_blank" rel="noopener noreferrer" href='https://vercel.com/about' target="_blank">Vercel</a>         |
-|    開発時の PC の OS     |                                                          Mac                                                           |
-|      バージョン管理      |                                                          Git                                                           |
-|    リモートリポジトリ    |                                                         GitHub                                                         |
-| 背景でループしている動画 |                                                       Replicate                                                        |
+|                    |                                                                                                                        |
+| :----------------: | :--------------------------------------------------------------------------------------------------------------------: |
+|    バックエンド    |                                                          なし                                                          |
+|   フロントエンド   |                              TypeScript / React, Next.js, Tailwind CSS, ESLint, Prettier                               |
+|    開発インフラ    | <a target="_blank" rel="noopener noreferrer" href='https://www.docker.com/' target="_blank">Docker</a> / Dev Container |
+|    ホスティング    |        <a target="_blank" rel="noopener noreferrer" href='https://vercel.com/about' target="_blank">Vercel</a>         |
+| 開発時の PC の OS  |                                                          Mac                                                           |
+|   バージョン管理   |                                                          Git                                                           |
+| リモートリポジトリ |                                                         GitHub                                                         |
+|      背景画像      |                                                        DALL·E 3                                                        |
+|                    |
 
 #### Links
 
