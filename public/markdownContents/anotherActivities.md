@@ -148,16 +148,17 @@ tom-takeru について紹介するためのサイトです（本サイトです
 
 #### 技術スタック
 
-|                          |                                                                                                                        |
-| :----------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-|       バックエンド       |                                                          なし                                                          |
-|      フロントエンド      |                              TypeScript / React, Next.js, Tailwind CSS, ESLint, Prettier                               |
-|       開発インフラ       | <a target="_blank" rel="noopener noreferrer" href='https://www.docker.com/' target="_blank">Docker</a> / Dev Container |
-|       ホスティング       |        <a target="_blank" rel="noopener noreferrer" href='https://vercel.com/about' target="_blank">Vercel</a>         |
-|    開発時の PC の OS     |                                                          Mac                                                           |
-|      バージョン管理      |                                                          Git                                                           |
-|    リモートリポジトリ    |                                                         GitHub                                                         |
-| 背景でループしている動画 |                                                       Replicate                                                        |
+|                    |                                                                                                                        |
+| :----------------: | :--------------------------------------------------------------------------------------------------------------------: |
+|    バックエンド    |                                                          なし                                                          |
+|   フロントエンド   |                              TypeScript / React, Next.js, Tailwind CSS, ESLint, Prettier                               |
+|    開発インフラ    | <a target="_blank" rel="noopener noreferrer" href='https://www.docker.com/' target="_blank">Docker</a> / Dev Container |
+|    ホスティング    |        <a target="_blank" rel="noopener noreferrer" href='https://vercel.com/about' target="_blank">Vercel</a>         |
+| 開発時の PC の OS  |                                                          Mac                                                           |
+|   バージョン管理   |                                                          Git                                                           |
+| リモートリポジトリ |                                                         GitHub                                                         |
+|      背景画像      |                                                        DALL·E 3                                                        |
+|                    |
 
 #### Links
 
