@@ -1,12 +1,20 @@
 # Job History
 
-## <a target="_blank" rel="noopener noreferrer" href='https://www.b-en-g.co.jp/company/profile.html' target="_blank">ビジネスエンジニアリング株式会社</a>
+## <a target="_blank" rel="noopener noreferrer" href='https://corp.moneyforward.com/aboutus/outline/' target="_blank">株式会社マネーフォワード</a>
 
-_在籍期間：2021/4 〜 現在も在籍中_
+_在籍期間：2023/11 〜 現在も在籍中_
 
 ### 職務概要
 
-設備の「保全」と「 IoT による稼働監視」のための Web アプリケーション の開発に携わっています。
+〜〜〜今後更新予定〜〜〜
+
+## <a target="_blank" rel="noopener noreferrer" href='https://www.b-en-g.co.jp/company/profile.html' target="_blank">ビジネスエンジニアリング株式会社</a>
+
+_在籍期間：2021/4 〜 2023/10_
+
+### 職務概要
+
+設備の「保全」と「 IoT による稼働監視」のための Web アプリケーション の開発に携わっていました。
 
 #### 担当業務
 

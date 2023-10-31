@@ -46,13 +46,13 @@ _期間：2022/8 〜 現在まで継続中_
 | :---------------------------------: | :---------------------------------: |
 |  GitHub リポジトリ（バックエンド）  | https://github.com/daydule/backend  |
 | GitHub リポジトリ（フロントエンド） | https://github.com/daydule/frontend |
-|          daydule（本製品）          |            近日公開予定             |
+|        daydule サービス URL         |    https://frontend.daydule.net     |
 
 ### アプリケーションのイメージ
 
-<img src='daydule_image.png'>
+<img src='dayduleImage.png'>
 
-**※2023/5/1 現在のスクリーンショットです**
+**※2023/10/30 現在のスクリーンショットです。**
 
 ### 私が担当していること
 
