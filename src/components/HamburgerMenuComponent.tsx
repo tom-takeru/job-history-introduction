@@ -1,8 +1,18 @@
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import { useState } from 'react';
+import { PAGE_NAMES } from '@/pages/_app';
+import { convertCamelCaseToTitleCase } from '@/util';
+
+const activeClass = `block p-4 text-green-700 text-5xl`;
+const inactiveClass = `block p-4 text-gray-800 text-4xl`;
+const getClass = (path: string, pageName: string) => {
+  return path.includes(pageName) ? activeClass : inactiveClass;
+};
 
 export const HamburgerMenuComponent = () => {
   const [isOpen, setIsOpen] = useState(false);
+  const router = useRouter();
 
   return (
     <div className='relative'>
@@ -20,18 +30,11 @@ export const HamburgerMenuComponent = () => {
           className='fixed w-full h-full p-12 text-center bg-white rounded-lg shadow-xl'
           onClick={() => setIsOpen((current) => !current)}
         >
-          <Link href='/top' className='block p-4 text-gray-800 text-4xl'>
-            Top
-          </Link>
-          <Link href='/about' className='block p-4 text-gray-800 text-4xl'>
-            About
-          </Link>
-          <Link href='/jobHistory' className='block p-4 text-gray-800 text-4xl'>
-            Job History
-          </Link>
-          <Link href='/anotherActivities' className='block p-4 text-gray-800 text-4xl'>
-            Another Activities
-          </Link>
+          {PAGE_NAMES.map((pageName) => (
+            <Link href={`/${pageName}`} key={`HamburgerMenu_${pageName}`} className={getClass(router.asPath, pageName)}>
+              {convertCamelCaseToTitleCase(pageName)}
+            </Link>
+          ))}
         </div>
       )}
     </div>

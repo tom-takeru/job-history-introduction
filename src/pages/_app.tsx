@@ -1,12 +1,15 @@
 import '@/styles/globals.css';
 import type { AppProps } from 'next/app';
 import Image from 'next/image';
+import { useRouter } from 'next/router';
 import { useEffect, useState } from 'react';
 import { HamburgerMenuComponent } from '@/components/HamburgerMenuComponent';
 import { SideMenuComponent } from '@/components/SideMenuComponent';
 
+const BACKGROUND_TYPE_COUNT = 12;
+export const PAGE_NAMES = ['top', 'about', 'jobHistory', 'anotherActivities'];
+
 export default function App({ Component, pageProps }: AppProps) {
-  const BACKGROUND_TYPE_COUNT = 12;
   const [displayedBackgroundNumber, setDisplayedBackgroundNumber] = useState(1);
 
   const padNumberWithZeros = (number: number, digits: number) => {
