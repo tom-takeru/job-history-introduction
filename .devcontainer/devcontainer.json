@@ -6,16 +6,17 @@
   "customizations": {
     "vscode": {
       "extensions": [
-		"dbaeumer.vscode-eslint",
-		"esbenp.prettier-vscode",
-		"streetsidesoftware.code-spell-checker",
-		"oderwat.indent-rainbow",
-		"formulahendry.auto-rename-tag",
-		"natqe.reload",
-		"csstools.postcss",
-		"eamodio.gitlens",
-		"bradlc.vscode-tailwindcss"
-	]
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "streetsidesoftware.code-spell-checker",
+        "oderwat.indent-rainbow",
+        "formulahendry.auto-rename-tag",
+        "natqe.reload",
+        "csstools.postcss",
+        "eamodio.gitlens",
+        "bradlc.vscode-tailwindcss",
+        "mhutchie.git-graph"
+      ]
     }
   },
   "mounts": [

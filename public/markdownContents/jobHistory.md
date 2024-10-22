@@ -6,7 +6,7 @@ _在籍期間：2023/11 〜 現在も在籍中_
 
 ### 職務概要
 
-〜〜〜今後更新予定〜〜〜
+---今後更新予定---
 
 ## <a target="_blank" rel="noopener noreferrer" href='https://www.b-en-g.co.jp/company/profile.html' target="_blank">ビジネスエンジニアリング株式会社</a>
 
