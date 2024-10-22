@@ -19,11 +19,3 @@
 | [GitHub](https://github.com/tom-takeru)             | tom-takeru の GitHub アカウントです。                   |
 | [Qiita](https://qiita.com/tom-takeru)               | tom-takeru の Qiita アカウントです。                    |
 | [LinkedIn](https://www.linkedin.com/in/tom-takeru/) | tom-takeru の LinkedIn アカウントです。                 |
-
-## 更新履歴
-
-|        |                                    |
-| ------ | ---------------------------------- |
-| 2023/5 | First edition published.           |
-| 2023/5 | Updated information in some pages. |
-| 2023/8 | Updated information in some pages. |
